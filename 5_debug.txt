@@ -1,0 +1,29 @@
+Encoding 5_in.txt -> 5_encoded.txt
+
+printFrequencyTable:
+
+ 10 \n {4}
+ 13 \r {4}
+ 97 'a' {7}
+ 98 'b' {3}
+ 99 'c' {2}
+
+printQueue:
+
+ 99 'c' {2}
+ 98 'b' {3}
+ 10 \n {4}
+ 13 \r {4}
+ 97 'a' {7}
+
+printEncodingTable:
+
+ 10 \n {00}
+ 13 \r {01}
+ 97 'a' {11}
+ 98 'b' {101}
+ 99 'c' {100}
+
+Decoding 5_encoded.txt -> 5_decoded.txt
+
+!!! Files 5_in.txt and 5_decoded.txt are equal.

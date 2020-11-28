@@ -4,4 +4,4 @@ Encodes and decodes text from input files using Huffman coding. Reads mutiple in
 
 Programming language: C++
 
-CSC 255 Objects and Algorithms Lab 6
+<!-- CSC 255 Objects and Algorithms Lab 6 -->
